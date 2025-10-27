@@ -14,6 +14,14 @@ Instalar Coqui TTS
 uv add TTS
 ```
 
+> Exception:  [!] No espeak backend found. Install espeak-ng or espeak to your system.
+
+Instalar **espeak-ng**
+
+```ps
+https://github.com/espeak-ng/espeak-ng/releases
+```
+
 ### List Models
 
 ```ps
